@@ -13,7 +13,7 @@ Este espaço é dedicado aos meus aprendizados, projetos e evolução . 🧠💻
 
 - 🎓 Estudante de ciências da computação
 - 🌈 Gosto de praticar e explorar a programação com criatividade
-- ✨ Explorando Python, HTML, CSS e mais
+- ✨ Explorando Java Script, Type Script, HTML, CSS e mais
   
 
 
