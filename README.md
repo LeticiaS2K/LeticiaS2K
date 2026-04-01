@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Letícia+Rodrigues&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Computer+Science+·+Full+Stack+Developer+·+Brasília,+DF&descAlignY=62&descColor=e0d4cc&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Letícia+Rodrigues&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Computer+Science+Student+·+Aspiring+Full+Stack+Developer+·+Brasília,+DF&descAlignY=62&descColor=e0d4cc&animation=fadeIn&fontAlign=50" />
 </div>
 
 <br/>
@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://github.com/LeticiaS2K">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=LeticiaS2K&style=flat-square&color=8e9baa&label=profile+views"/>
 </div>
 
@@ -23,13 +27,18 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science student with a strong interest in full stack development and artificial intelligence. I believe that combining technical rigor with creative thinking leads to better software — and I bring that mindset to everything I build.
+I'm a Computer Science student (3rd semester) at **Faculdade UDF**, Brasília, with a focus on software development and web applications. I'm actively seeking an internship where I can apply and grow my skills in JavaScript, React, Node.js, and Python.
 
-- 🎓 &nbsp;Currently pursuing a degree in **Computer Science**
-- 🌐 &nbsp;Building projects with **JavaScript, TypeScript, React and Node.js**
-- 🤖 &nbsp;Exploring the fundamentals of **Artificial Intelligence & Machine Learning**
-- 🌱 &nbsp;Continuously learning and evolving through hands-on projects
+I enjoy building things from scratch, learning through real projects, and continuously improving — one commit at a time.
+
+- 🎓 &nbsp;B.Sc. in Computer Science — Faculdade UDF, 3rd semester
+- 💻 &nbsp;Currently working with **JavaScript, React, Node.js and Python**
+- 🗄️ &nbsp;Databases: **MySQL** (basic operations)
+- 🛠️ &nbsp;Tools: **Git, GitHub, VSCode, Vite**
+- 🖥️ &nbsp;Systems: **Windows & Linux**
+- 🌐 &nbsp;Languages: Portuguese (native) · English (basic)
 - 📍 &nbsp;Based in **Brasília, DF, Brazil**
+- 📞 &nbsp;**(61) 99671-1420**
 
 ---
 
@@ -40,20 +49,35 @@ I'm a Computer Science student with a strong interest in full stack development 
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏫 **Academic Room Booking System** | Web app for scheduling and managing academic room reservations, with version control and clean code focus | JavaScript, Vite, Git |
+| 🧮 **Desktop Calculator** | Graphical desktop application built with event-driven logic | Python, Tkinter |
+| 📊 **Data Analysis — Hackathons** | Data cleaning, manipulation and basic analysis during hackathon challenges | Python, Pandas |
 
 ---
 
@@ -71,19 +95,19 @@ I'm a Computer Science student with a strong interest in full stack development 
 
 ---
 
-### 🚀 Currently Working On
+### 🤝 Soft Skills
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 Full Stack App | End-to-end web application | React, Node.js, PostgreSQL |
-| 🤖 AI Study | Foundations of machine learning | Python, scikit-learn |
+`Self-taught` &nbsp;`Proactive` &nbsp;`Communicative` &nbsp;`Team player` &nbsp;`Organized` &nbsp;`Continuous learner`
 
 ---
 
 ### 📬 Get in Touch
 
+I'm open to internship opportunities in software or web development.
+
 - 📧 &nbsp;[leticiarodriguespereirasantos@gmail.com](mailto:leticiarodriguespereirasantos@gmail.com)
 - 💼 &nbsp;[linkedin.com/in/letícia-rodrigues-67823a2a4](https://linkedin.com/in/letícia-rodrigues-67823a2a4)
+- 📞 &nbsp;(61) 99671-1420
 
 <br/>
 
