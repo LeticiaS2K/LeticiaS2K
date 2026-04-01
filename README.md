@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="./icons/sparkles.svg" width="20" height="20"/> About Me About Me
+### <img src="./imagens/brilhos.svg" width="20" height="20"/> About Me About Me
 
 I'm a Computer Science student with a strong interest in full stack development and artificial intelligence. I believe that combining technical rigor with creative thinking leads to better software — and I bring that mindset to everything I build.
 
