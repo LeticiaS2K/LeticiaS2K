@@ -21,14 +21,14 @@
 
 ---
 
-### <img src="./imagens/brilhos.svg" width="20" height="20"/>  About Me
+### 🎓  About Me
 
 I'm a Computer Science student with a strong interest in full stack development and artificial intelligence. I believe that combining technical rigor with creative thinking leads to better software — and I bring that mindset to everything I build.
 
-- 🎓 &nbsp;Currently pursuing a degree in **Computer Science**
-- 🌐 &nbsp;Building projects with **JavaScript, TypeScript, React and Node.js**
-- 🤖 &nbsp;Exploring the fundamentals of **Artificial Intelligence & Machine Learning**
-- 🌱 &nbsp;Continuously learning and evolving through hands-on projects
+- &nbsp;Currently pursuing a degree in **Computer Science**
+-  &nbsp;Building projects with **JavaScript, TypeScript, React and Node.js**
+-  &nbsp;Exploring the fundamentals of **Artificial Intelligence & Machine Learning**
+-  &nbsp;Continuously learning and evolving through hands-on projects
 - 📍 &nbsp;Based in **Brasília, DF, Brazil**
 
 ---
