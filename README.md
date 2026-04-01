@@ -1,80 +1,92 @@
-<!-- Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A89A,8E9BAA,D4C5B4&height=200&section=header&text=Letícia+Rodrigues&fontSize=42&fontColor=3A2E2A&fontAlignY=38&desc=Desenvolvedora+Full+Stack+·+Brasília,+DF&descAlignY=58&descColor=6B5A52&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Letícia+Rodrigues&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Computer+Science+·+Full+Stack+Developer+·+Brasília,+DF&descAlignY=62&descColor=e0d4cc&animation=fadeIn&fontAlign=50" />
 </div>
 
 <br/>
 
-<!-- Badges de status -->
 <div align="center">
-
-  ![Status](https://img.shields.io/badge/Status-Estudando%20Full%20Stack%20%26%20IA-C9A89A?style=flat-square&labelColor=EDE4D8&color=C9A89A)
-  ![Pronomes](https://img.shields.io/badge/Pronomes-she%2Fher-8E9BAA?style=flat-square&labelColor=DCE4EB&color=8E9BAA)
-  ![Localização](https://img.shields.io/badge/Localização-Brasília,_DF-D4C5B4?style=flat-square&labelColor=EAE0D4&color=9A8778)
-
+  <a href="mailto:leticiarodriguespereirasantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/letícia-rodrigues-67823a2a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=LeticiaS2K&style=flat-square&color=8e9baa&label=profile+views"/>
 </div>
 
 <br/>
 
-## 🌸 Sobre mim
+---
 
-Sou estudante de **Ciências da Computação**, apaixonada por tecnologia, programação e tudo que envolve criatividade. Gosto de explorar o código com curiosidade e transformar ideias em projetos reais.
+### 👩‍💻 About Me
 
-- 🎓 Estudante de Ciências da Computação
-- 🌐 Foco em desenvolvimento **full stack**
-- 🤖 Explorando fundamentos de **Inteligência Artificial**
-- ✨ Sempre aprendendo: JavaScript, TypeScript, HTML, CSS e mais
+I'm a Computer Science student with a strong interest in full stack development and artificial intelligence. I believe that combining technical rigor with creative thinking leads to better software — and I bring that mindset to everything I build.
 
-<br/>
+- 🎓 &nbsp;Currently pursuing a degree in **Computer Science**
+- 🌐 &nbsp;Building projects with **JavaScript, TypeScript, React and Node.js**
+- 🤖 &nbsp;Exploring the fundamentals of **Artificial Intelligence & Machine Learning**
+- 🌱 &nbsp;Continuously learning and evolving through hands-on projects
+- 📍 &nbsp;Based in **Brasília, DF, Brazil**
 
-## 🛠️ Tecnologias
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-EDE4D8?style=for-the-badge&logo=javascript&logoColor=8C6558)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-DCE4EB?style=for-the-badge&logo=typescript&logoColor=5C6B78)
-  ![HTML5](https://img.shields.io/badge/HTML5-EAE0D4?style=for-the-badge&logo=html5&logoColor=7A6553)
-  ![CSS3](https://img.shields.io/badge/CSS3-EDE4D8?style=for-the-badge&logo=css3&logoColor=8C6558)
-  ![React](https://img.shields.io/badge/React-DCE4EB?style=for-the-badge&logo=react&logoColor=5C6B78)
-  ![Node.js](https://img.shields.io/badge/Node.js-EAE0D4?style=for-the-badge&logo=node.js&logoColor=7A6553)
-  ![Python](https://img.shields.io/badge/Python-EDE4D8?style=for-the-badge&logo=python&logoColor=8C6558)
-  ![Git](https://img.shields.io/badge/Git-DCE4EB?style=for-the-badge&logo=git&logoColor=5C6B78)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeticiaS2K&show_icons=true&theme=rose_pine&bg_color=F5EFE8&title_color=8C6558&text_color=6B5A52&icon_color=C9A89A&border_color=E8D5CE&border_radius=12" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaS2K&layout=compact&theme=rose_pine&bg_color=F5EFE8&title_color=8C6558&text_color=6B5A52&border_color=E8D5CE&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeticiaS2K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a89a&icon_color=c9a89a&text_color=a0aab4&ring_color=8e9baa" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaS2K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a89a&text_color=a0aab4" />
 </div>
 
-<br/>
-
-## 🌿 No momento
-
-```
-🔭  Construindo projetos full stack com React + Node.js
-🧠  Aprendendo fundamentos de IA e machine learning  
-🌱  Evoluindo como desenvolvedora a cada projeto
-```
-
-<br/>
-
-## 💌 Vamos conversar?
-
 <div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-leticiarodriguespereirasantos%40gmail.com-EDE4D8?style=for-the-badge&logo=gmail&logoColor=8C6558)](mailto:leticiarodriguespereirasantos@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Letícia_Rodrigues-DCE4EB?style=for-the-badge&logo=linkedin&logoColor=5C6B78)](https://linkedin.com/in/letícia-rodrigues-67823a2a4)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaS2K&theme=tokyonight&hide_border=true&background=0D1117&stroke=8E9BAA&ring=C9A89A&fire=C9A89A&currStreakLabel=C9A89A&sideLabels=A0AAB4&dates=A0AAB4" />
 </div>
 
+---
+
+### 🚀 Currently Working On
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 Full Stack App | End-to-end web application | React, Node.js, PostgreSQL |
+| 🤖 AI Study | Foundations of machine learning | Python, scikit-learn |
+
+---
+
+### 📬 Get in Touch
+
+- 📧 &nbsp;[leticiarodriguespereirasantos@gmail.com](mailto:leticiarodriguespereirasantos@gmail.com)
+- 💼 &nbsp;[linkedin.com/in/letícia-rodrigues-67823a2a4](https://linkedin.com/in/letícia-rodrigues-67823a2a4)
+
 <br/>
 
-<!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A89A,8E9BAA,D4C5B4&height=100&section=footer&fontColor=3A2E2A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 </div>
