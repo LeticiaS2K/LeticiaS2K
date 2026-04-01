@@ -71,8 +71,8 @@ I'm a Computer Science student with a strong interest in full stack development 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 Full Stack App | End-to-end web application | React, Node.js, PostgreSQL |
-| 🤖 AI Study | Foundations of machine learning | Python, scikit-learn |
+|  Full Stack App | End-to-end web application | React, Node.js, PostgreSQL |
+|  AI Study | Foundations of machine learning | Python, scikit-learn |
 
 ---
 
