@@ -59,11 +59,7 @@ I'm a Computer Science student with a strong interest in full stack development 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeticiaS2K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a89a&icon_color=c9a89a&text_color=a0aab4&ring_color=8e9baa" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaS2K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a89a&text_color=a0aab4" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaS2K&theme=tokyonight&hide_border=true&background=0D1117&stroke=8E9BAA&ring=C9A89A&fire=C9A89A&currStreakLabel=C9A89A&sideLabels=A0AAB4&dates=A0AAB4" />
